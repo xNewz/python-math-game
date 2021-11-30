@@ -15,3 +15,8 @@ def random_problem():
     answer = operators.get(operation)(num_1, num_2)
     print(f'What is {num_1} {operation} {num_2}')
     return answer
+
+def ask_question():
+    answer = random_problem()
+    guess = float(input('Enter you answer: '))
+    return guess == answer
