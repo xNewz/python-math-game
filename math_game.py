@@ -8,3 +8,6 @@ def random_problem():
         '*': operator.mul,
         '/': operator.truediv,
     }
+
+    num_1 = random.randint(1, 10)
+    num_2 = random.randint(1, 10)
