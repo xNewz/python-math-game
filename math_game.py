@@ -11,3 +11,4 @@ def random_problem():
 
     num_1 = random.randint(1, 10)
     num_2 = random.randint(1, 10)
+    operation = random.choice(list(operators.keys()))
