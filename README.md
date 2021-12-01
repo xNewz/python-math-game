@@ -1,7 +1,7 @@
 # Math Game
 It's just a simple math game. Improve your math skills
 
-## Prerequisites
+## Libraly used
 `import random` and `import operator`
 
 ## How to run the script
