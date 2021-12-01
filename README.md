@@ -8,7 +8,7 @@ It's just a simple math game. Improve your math skills
 `python math_game.py`
 
 ## *Author Name*
-https://github.com/xNewz
+[`Pargorn Ruasijan (xNewz)`](https://github.com/xNewz)
 
 ## Screenshot
 <div align="center"><img src="https://github.com/xNewz/python-mini-projects/blob/master/projects/Math%20Game/img.gif"></div>
